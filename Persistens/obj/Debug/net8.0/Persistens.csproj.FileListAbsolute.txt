@@ -1,0 +1,14 @@
+C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\Persistens\Persistens\bin\Debug\net8.0\Persistens.exe
+C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\Persistens\Persistens\bin\Debug\net8.0\Persistens.deps.json
+C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\Persistens\Persistens\bin\Debug\net8.0\Persistens.runtimeconfig.json
+C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\Persistens\Persistens\bin\Debug\net8.0\Persistens.dll
+C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\Persistens\Persistens\bin\Debug\net8.0\Persistens.pdb
+C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\Persistens\Persistens\obj\Debug\net8.0\Persistens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\Persistens\Persistens\obj\Debug\net8.0\Persistens.AssemblyInfoInputs.cache
+C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\Persistens\Persistens\obj\Debug\net8.0\Persistens.AssemblyInfo.cs
+C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\Persistens\Persistens\obj\Debug\net8.0\Persistens.csproj.CoreCompileInputs.cache
+C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\Persistens\Persistens\obj\Debug\net8.0\Persistens.dll
+C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\Persistens\Persistens\obj\Debug\net8.0\refint\Persistens.dll
+C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\Persistens\Persistens\obj\Debug\net8.0\Persistens.pdb
+C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\Persistens\Persistens\obj\Debug\net8.0\Persistens.genruntimeconfig.cache
+C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\Persistens\Persistens\obj\Debug\net8.0\ref\Persistens.dll
